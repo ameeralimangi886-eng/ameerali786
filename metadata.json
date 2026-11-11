@@ -1,0 +1,8 @@
+{
+  "name": "Remix BarberFlow Pro",
+  "description": "A premium, full-stack appointment booking platform featuring a sleek dashboard and seamless management for modern barbershops.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
